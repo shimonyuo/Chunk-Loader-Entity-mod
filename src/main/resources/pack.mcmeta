@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "description": "Chunk Loader Entity Mod resources: Allows entities to act as chunk loaders.",
+    "pack_format": 15
+  }
+}

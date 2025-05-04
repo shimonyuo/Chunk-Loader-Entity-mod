@@ -1,0 +1,10 @@
+{
+  "commands.chunkloadermod.list.none": "チャンクローダーがありません",
+  "commands.chunkloadermod.list.total": "合計: %d 体のチャンクローダー",
+  "commands.chunkloadermod.set.failure.no_entities": "エンティティが見つかりません",
+  "commands.chunkloadermod.set.success": "%d 体をチャンクローダーに設定 (範囲: %dx%d)",
+  "commands.chunkloadermod.set.failure.range_exceeded": "範囲が上限 (%d) を超えています",
+  "commands.chunkloadermod.remove.failure.syntax_error": "コマンド構文エラー: %s",
+  "commands.chunkloadermod.remove.success": "%d 体を解除",
+  "commands.chunkloadermod.server_unavailable": "サーバーが利用できません"
+}

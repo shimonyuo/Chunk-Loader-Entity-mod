@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT License"
+[[mods]]
+modId="chunkloadermod"
+version="1.0.0"
+displayName="Chunk Loader Entity Mod"
+authors="shimo"
+displayTest="MATCH_VERSION"
+description='''
+Allows entities to act as chunk loaders, keeping chunks loaded around them.
+Supports commands /setchunkloader, /removechunkloader, /listchunkloaders.
+Configurable range via config/chunkloaderentityconfig.toml.
+Supports Japanese and English.
+Licensed under the MIT License.
+'''
+[[dependencies.chunkloadermod]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.chunkloadermod]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1]"
+ordering="NONE"
+side="BOTH"

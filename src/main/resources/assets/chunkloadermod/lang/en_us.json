@@ -1,0 +1,10 @@
+{
+  "commands.chunkloadermod.list.none": "No chunk loaders found",
+  "commands.chunkloadermod.list.total": "Total: %d chunk loaders",
+  "commands.chunkloadermod.set.failure.no_entities": "No entities found",
+  "commands.chunkloadermod.set.success": "Set %d entities as chunk loaders (range: %dx%d)",
+  "commands.chunkloadermod.set.failure.range_exceeded": "Range exceeds maximum (%d)",
+  "commands.chunkloadermod.remove.failure.syntax_error": "Command syntax error: %s",
+  "commands.chunkloadermod.remove.success": "Removed %d chunk loaders",
+  "commands.chunkloadermod.server_unavailable": "Server is unavailable"
+}
